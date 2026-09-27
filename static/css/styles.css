@@ -6,3 +6,12 @@ nome_aluno: Vítor Oliveira Alves
 email_aluno: vitor.alves19@aluno.cps.sp.gov.br
 turma: A1129-N-D.S.M.-312-20262
 */
+
+/* Configurações gerais */
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
