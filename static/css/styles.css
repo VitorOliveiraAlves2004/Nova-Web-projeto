@@ -69,3 +69,16 @@ nav ul li a:hover {
     background-color: #091c38;
     color: #3761a0;
 }
+
+/* Estilo do conteúdo principal */
+
+main {
+    max-width: 1000px;
+    width: 90%;
+    margin: 32px auto;
+    background-color: #f4f4f4;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    flex: 1;
+    padding: 32px;
+}
