@@ -25,3 +25,23 @@ body {
     min-height: 100vh;
 }
 
+header {
+    background-color: #3761a0;
+    color: #ffffff;
+    padding: 32px 16px 16px 16px;
+    text-align: left;
+}
+
+header h1 {
+    font-family: 'Arial Black', sans-serif;
+    font-size: 50px;
+    color: #091c38;
+    margin-bottom: 0px;
+}
+
+header p {
+    font-family: Arial, sans-serif, bold;
+    font-size: 18px;
+    color: #ffffff;
+    margin-top: 0px;
+}
