@@ -100,7 +100,7 @@ p{
 }
 
 .card-post {
-    background-color: #c5edee;
+    background-color: #e6e6e6;
     border: 2px solid #e2e8f0;
     border-radius: 6px;
     padding: 24px;
@@ -119,4 +119,12 @@ img{
     border-radius: 6px;
     margin: 16px 0;
     display: block;
+}
+
+/* Todos os Links */
+
+a{
+    color: #0284c7;
+    text-decoration: none;
+    font-weight: 500;
 }
