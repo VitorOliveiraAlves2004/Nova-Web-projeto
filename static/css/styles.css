@@ -94,3 +94,29 @@ h3{
     color: #3761a0;
     margin: 24px 0 8px 0;
 }
+
+p{
+    margin-bottom: 16px;
+}
+
+.card-post {
+    background-color: #c5edee;
+    border: 2px solid #e2e8f0;
+    border-radius: 6px;
+    padding: 24px;
+    margin-bottom: 24px;
+}
+
+.data-post{
+    font-size: 13.6px;
+    color: #64748b;
+    margin-bottom: 16px;
+}
+
+img{
+    max-width: 100%;
+    height: auto;
+    border-radius: 6px;
+    margin: 16px 0;
+    display: block;
+}
