@@ -135,7 +135,7 @@ a:hover{
 
 /* Estilizando as listas */
 
-.principais-temas, nossos-valores{
+.principais-temas, .nossos-valores{
     margin-top: 24px;
     margin-bottom: 24px;
 }
@@ -148,3 +148,16 @@ ul, ol{
 li{
     margin-bottom: 8px;
 }
+
+/*Estilizando tabelas*/
+
+.programacao-semanal{
+    margin-top: 32px;
+}
+
+table{
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 16px;
+}
+
