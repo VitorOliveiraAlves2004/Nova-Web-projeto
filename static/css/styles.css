@@ -230,3 +230,7 @@ textarea:focus{
     transition: background-color 0.3s;
     align-self: flex-end;
 }
+
+.botao-enviar:hover{
+    background-color: #091c38;
+}
