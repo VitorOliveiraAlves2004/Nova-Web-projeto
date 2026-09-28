@@ -166,3 +166,9 @@ th, td{
     text-align: left;
     border: 2px solid #e2e8f0;
 }
+
+th{
+    background-color: #3761a0;
+    color: #e6e6e6;
+    font-weight: 600;
+}
