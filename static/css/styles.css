@@ -208,3 +208,25 @@ textarea{
     font-size: 16px;
     transition: border-color 0.2s;
 }
+
+input[type="text"]:focus,
+input[type="email"]:focus,
+select:focus,
+textarea:focus{
+    outline: none;
+    border-color: #3761a0;
+}
+
+.botao-enviar{
+    padding: 12px 24px;
+    border: none;
+    border-radius: 4px;
+    font-family: 'arial black';
+    font-size: 16px;
+    font-weight: 600;
+    cursor: pointer;
+    color: white;
+    background-color: #3761a0;
+    transition: background-color 0.3s;
+    align-self: flex-end;
+}
