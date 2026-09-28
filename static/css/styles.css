@@ -137,6 +137,11 @@ a:hover{
 
 .principais-temas, nossos-valores{
     margin-top: 24px;
-    margin-bottom: 16;
+    margin-bottom: 24px;
+}
+
+ul, ol{
+    margin-left: 24px;
+    margin-bottom: 16px;
 }
 
